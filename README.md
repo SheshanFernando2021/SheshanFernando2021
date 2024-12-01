@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SheshanFernando2021&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SheshanFernando2021&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheshanFernando2021&theme=blue-green)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SheshanFernando2021&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
