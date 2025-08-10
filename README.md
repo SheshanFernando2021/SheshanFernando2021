@@ -9,7 +9,6 @@
 ![Rasa](https://img.shields.io/badge/Rasa-FF6C37?style=for-the-badge&logo=rasa&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google--Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white) ![MVVM Light](https://img.shields.io/badge/MVVM-Light-0078D7?style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-App-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SheshanFernando2021&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SheshanFernando2021&theme=dark&hide_border=false)<br/>
