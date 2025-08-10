@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=SheshanFernando2021&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SheshanFernando2021&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheshanFernando2021&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheshanFernando2021&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SheshanFernando2021&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
